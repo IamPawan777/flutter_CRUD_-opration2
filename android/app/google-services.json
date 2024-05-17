@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327340365335",
+    "project_id": "crudoperation2-b07ab",
+    "storage_bucket": "crudoperation2-b07ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327340365335:android:dc14ba1a0cb32ff5fb2e52",
+        "android_client_info": {
+          "package_name": "com.example.crud_operation2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2OUwADPMILOrSfDIXmkffjXX6y8tVsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
